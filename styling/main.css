@@ -2,3 +2,42 @@
   outline: 1px solid red;
   outline-offset: -1px;
 }
+
+.left_nav {
+  width: 20%;
+  display:inline-block;
+  margin-right: 5%;
+  min-height: 400px;
+  text-align: center;
+  float: left;
+  margin-left: 3%;
+}
+
+.main_content {
+  width: 40%;
+  display: inline-block;
+  min-height: 400px;
+  text-align: center;
+}
+
+.main_container {
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+.title_container {
+  margin-bottom: 10%;
+  text-align: center;
+}
+
+.main_title {
+  display: inline-block;
+}
+
+#main_footer {
+  text-align: center;
+  padding: 20px;
+  margin-top: 5%;
+}
+
+ 
